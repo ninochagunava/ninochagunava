@@ -1,0 +1,200 @@
+/* Tbilisi Home — Expats guides shared stylesheet */
+:root {
+  --ink: #22272c;
+  --muted: #5c6670;
+  --accent: #9e3a32;      /* Georgian red */
+  --accent-dark: #7c2d27;
+  --bg: #faf8f4;
+  --card: #ffffff;
+  --line: #e6e1d8;
+  --green: #2f6b4f;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  color: var(--ink);
+  background: var(--bg);
+  line-height: 1.65;
+  font-size: 17px;
+}
+.wrap { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+
+/* Header */
+header.site {
+  background: var(--card);
+  border-bottom: 1px solid var(--line);
+  padding: 14px 0;
+}
+header.site .wrap {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.brand {
+  font-size: 1.25rem;
+  font-weight: bold;
+  letter-spacing: 0.02em;
+  color: var(--ink);
+  text-decoration: none;
+}
+.brand span { color: var(--accent); }
+.crumbs { font-size: 0.85rem; color: var(--muted); }
+.crumbs a { color: var(--muted); }
+
+/* Hero */
+.hero { padding: 48px 0 36px; }
+.hero .kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.75rem;
+  color: var(--accent);
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+h1 { font-size: 2.1rem; line-height: 1.2; margin-bottom: 14px; }
+.hero p.lead { font-size: 1.1rem; color: var(--muted); max-width: 44em; }
+
+/* Sections */
+main { padding-bottom: 56px; }
+section { margin-top: 40px; }
+h2 {
+  font-size: 1.45rem;
+  margin-bottom: 12px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid var(--line);
+}
+h3 { font-size: 1.1rem; margin: 20px 0 8px; }
+p + p { margin-top: 12px; }
+a { color: var(--accent-dark); }
+ul, ol { margin: 12px 0 12px 24px; }
+li { margin-bottom: 8px; }
+
+/* At-a-glance card */
+.glance {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 22px 24px;
+  margin-top: 26px;
+}
+.glance h2 { border: none; padding: 0; margin-bottom: 10px; font-size: 1.1rem; }
+.glance dl { display: grid; grid-template-columns: minmax(140px, 200px) 1fr; gap: 6px 16px; }
+.glance dt { font-weight: bold; font-size: 0.92rem; }
+.glance dd { color: var(--muted); font-size: 0.92rem; }
+@media (max-width: 540px) { .glance dl { grid-template-columns: 1fr; } .glance dd { margin-bottom: 8px; } }
+
+/* Steps */
+ol.steps { list-style: none; margin-left: 0; counter-reset: step; }
+ol.steps > li {
+  counter-increment: step;
+  position: relative;
+  padding: 0 0 18px 52px;
+  border-left: 2px solid var(--line);
+  margin-left: 18px;
+  margin-bottom: 0;
+}
+ol.steps > li:last-child { border-left-color: transparent; }
+ol.steps > li::before {
+  content: counter(step);
+  position: absolute;
+  left: -19px;
+  top: -2px;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #fff;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+}
+ol.steps b { display: block; margin-bottom: 2px; }
+
+/* Checklist */
+ul.check { list-style: none; margin-left: 0; }
+ul.check li { padding-left: 30px; position: relative; }
+ul.check li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: var(--green);
+  font-weight: bold;
+}
+
+/* Tables */
+.table-scroll { overflow-x: auto; margin-top: 14px; }
+table { border-collapse: collapse; width: 100%; background: var(--card); font-size: 0.95rem; }
+th, td { border: 1px solid var(--line); padding: 10px 14px; text-align: left; vertical-align: top; }
+th { background: #f1ede4; }
+
+/* Callouts */
+.note, .warn {
+  border-radius: 6px;
+  padding: 14px 18px;
+  margin: 18px 0;
+  font-size: 0.95rem;
+}
+.note { background: #eef3ee; border-left: 4px solid var(--green); }
+.warn { background: #f7efe4; border-left: 4px solid #b98a2f; }
+
+/* FAQ */
+details {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 12px 18px;
+  margin-bottom: 10px;
+}
+summary { cursor: pointer; font-weight: bold; }
+details p { margin-top: 10px; color: var(--muted); }
+
+/* Cards grid (hub page) */
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 18px; margin-top: 20px; }
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+}
+.card h3 { margin: 0 0 8px; }
+.card p { color: var(--muted); font-size: 0.93rem; flex: 1; }
+.card a.btn { margin-top: 16px; }
+
+/* CTA */
+.cta {
+  background: var(--ink);
+  color: #f2efe9;
+  border-radius: 8px;
+  padding: 30px 28px;
+  margin-top: 44px;
+}
+.cta h2 { color: #fff; border: none; padding: 0; }
+.cta p { color: #cfc9bf; max-width: 42em; }
+a.btn {
+  display: inline-block;
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  font-size: 0.95rem;
+  font-weight: bold;
+  padding: 11px 22px;
+  border-radius: 5px;
+  margin-top: 14px;
+}
+a.btn:hover { background: var(--accent-dark); }
+
+/* Footer */
+footer.site {
+  border-top: 1px solid var(--line);
+  padding: 26px 0 40px;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+footer.site p + p { margin-top: 8px; }

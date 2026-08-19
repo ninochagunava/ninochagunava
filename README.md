@@ -1,4 +1,13 @@
-# Tbilisi Home — Expats: Remote Banking Guides
+# Tbilisi Home — Working Repo
+
+| Project | What it is |
+|---|---|
+| [`phone-listing/`](phone-listing/) | System for capturing and publishing property listings from the phone — Airtable Phone Intake table + the `phone-listing-intake` Claude skill |
+| [`expats/`](expats/) | Remote banking guides for the Expats tab on tbilisihome.ge (below) |
+
+---
+
+# Expats: Remote Banking Guides
 
 Four ready-to-publish pages for the **Expats** tab on [tbilisihome.ge](https://tbilisihome.ge/), teaching foreign buyers and leads how to start opening a Georgian bank account **before they arrive** — so the in-person part becomes a single ~1-hour branch visit with one of our private bankers.
 

@@ -1,111 +1,166 @@
-# Besarion Jgenti 85, Apt 51 — Replacement Description & Price ($750/mo)
+# Besarion Jgenti 85, Apt 51 — EDIT PACK, $750/mo
 
-**Property:** Besarion Jgenti Street 85, Nutsubidze Plateau, Tbilisi · entrance 1, floor 12/16, apt 51 · 85.08 m²
-**Owner:** Vasiliy Sofiyskiy (PM 0009) · **New price: $750/mo** (was $900)
-**Prepared:** 16 Sep 2026 · replaces the 3 Sep 2026 copy on all six destinations
+**Property:** Besarion Jgenti St 85, Nutsubidze Plateau (Saburtalo), Tbilisi · entrance 1, floor 12/16, apt 51 · 85.08 m²
+**Owner:** Vasiliy Sofiyskiy (PM 0009) · **New price: $750/mo** (was $900) · **Garage included**
+**Prepared:** 16 Sep 2026 — replaces the 3 Sep copy on all six destinations
+
+---
+
+## ⚠️ Read this before pasting
+
+**Three changes from your draft:**
+
+1. **Garage is now sold as INCLUDED**, not an add-on. Your draft said "available as an add-on" / "Garage Option (Extra)" — I rewrote those lines in all three languages. If it's actually included, this is right; if you meant it as an upsell, tell me and I'll flip it back.
+2. **Heating named explicitly as central gas** (you confirmed). Your draft said only "a reliable heating system" — central gas is a stronger selling point in a 1983 block, so it's now stated.
+3. **Seismic claim kept but hedged.** "Widely recognized as one of the structurally soundest, most seismostrong residential structures in Tbilisi" is your/Vasiliy's claim — I could not verify it independently and left your hedged wording. It's a strong claim in a country where tenants care about it; your call whether to keep it.
+
+**Corrected facts vs the live listings:** year built 2020 → **1983**; total floors 17 → **16**; commute "bus 398 → Vazha-Pshavela ~17 min" → **8 min by bus to Delisi metro**; price $900 → **$750**.
+
+**Verified local colour:** Delisi metro is on the Saburtalo line at Vazha-Pshavela Ave × Mikheil Tamarashvili St. Besarion Jgenti St has its own bus stops. The plateau's landmark is the Nutsubidze Skybridge (1974–76, Kalandarishvili & Potskhishvili) — referenced as a *neighbourhood* landmark only; the copy never claims this building is it.
 
 ---
 
-## ⚠️ Corrected facts — these changed from the original listing
-
-| Field | Old (wrong) | New |
-|---|---|---|
-| Year built | 2020 new build | **1983** |
-| Total floors | 17 | **16** |
-| Building type | — | Soviet brutalist, reinforced pylons, high seismic strength |
-| Commute | Bus 398 → Vazha-Pshavela ~17 min | **8 min by bus to Delisi metro** |
-| Price | $900/mo | **$750/mo** |
-
-Also new: 28 m² living room, 9 m² hall, dishwasher, washer/dryer, 2 TVs, fibre-optic internet, and an **18 m² garage as a paid add-on** (price not yet set — ask Vasiliy).
-
----
+# A. LONG-FORM — for myhome.ge, ss.ge, korter.ge
 
 ## ENGLISH
 
-**Title:** Spacious 3-Room Apartment with Panoramic Views & Exceptional Seismostrength | Saburtalo/Nutsubidze Plato
+**Title:** Spacious 3-Room Apartment with Panoramic Views & Exceptional Seismostrength | Saburtalo / Nutsubidze Plateau
 
-### Overview
-Positioned on the 12th floor of a landmark 16-story building constructed in 1983, this spacious 3-room apartment combines rare architectural character with modern living convenience. Set against the green backdrop of Saburtalo, the property delivers brilliant natural light, excellent airflow, and sweeping panoramic views across the city.
+Mornings on the Nutsubidze Plateau are quieter than the rest of Saburtalo — tree-lined streets, fresh air coming down off the ridge, and the city laid out below you. This spacious 3-room apartment sits on the 12th floor of a landmark 16-storey building constructed in 1983, combining rare architectural character with modern living convenience. Brilliant natural light, excellent airflow, and sweeping panoramic views across Tbilisi.
 
-### Architectural & Structural Highlights
-A premier example of Soviet brutalism, this building stands proudly on reinforced pylons and is widely recognized as one of the structurally soundest, most seismostrong residential structures in Tbilisi. It offers both peace of mind and distinct architectural heritage.
+**Architecture & structure.** A premier example of Soviet brutalism, the building stands on reinforced pylons and is widely recognized as one of the structurally soundest, most seismostrong residential structures in Tbilisi. It offers both peace of mind and distinct architectural heritage — this is the plateau that gave Tbilisi its famous Skybridge towers.
 
-### Key Property Features & Layout
-- **Generous Dimensions:** Features an expansive 28 sq. m. living room, a welcoming 9 sq. m. hall, and a separate kitchen.
-- **Light & Views:** Abundant natural sunlight streams through high-floor windows, offering breathtaking elevated vistas from the 12th floor.
-- **Furnishing & Comfort:** Fully furnished and move-in ready, equipped with air conditioning, a reliable heating system, and fast fiber-optic internet.
-- **Appliances:** Fully outfitted kitchen featuring a dishwasher, a gas/electric stove, plus a washer/dryer unit and two televisions.
-- **Garage Option (Extra):** A secure, solid concrete 18 sq. m. garage located right near the building entrance is available as an add-on. Its robust construction makes it exceptionally well-suited as a private storage facility or staging area for professionals involved in business and e-commerce operations.
+**Layout & features**
+- Generous dimensions: an expansive 28 m² living room, a welcoming 9 m² hall, and a separate kitchen
+- 2 bedrooms, 1 bathroom, 85 m² total, balcony
+- Abundant natural sunlight through high-floor windows, with breathtaking elevated vistas from the 12th floor
+- Fully furnished and move-in ready: air conditioning, central gas heating, and fast fibre-optic internet
+- Fully outfitted kitchen with dishwasher and gas/electric stove, plus a washer/dryer unit and two televisions
+- **Included: a secure, solid concrete 18 m² garage right by the building entrance.** Its robust construction makes it exceptionally well suited as private storage or a staging area for anyone running a business or e-commerce operation.
 
-### Location & Neighborhood (Saburtalo / Nutsubidze Plateau)
-- **Commuting:** Just an 8-minute bus ride to the Delisi metro station, ensuring seamless connectivity to the rest of Tbilisi.
-- **Education & Academia:** Surrounded by an extensive selection of top-tier public and private schools, as well as close proximity to major universities.
-- **Parks & Recreation:** Situated in a peaceful, tree-lined enclave with consistently fresh air, close to neighborhood parks, sports facilities, and Lisi Lake for outdoor recreation and weekend leisure.
+**Location — Saburtalo / Nutsubidze Plateau**
+- Just an 8-minute bus ride to Delisi metro station, with seamless connections to the rest of Tbilisi
+- Surrounded by an extensive selection of top-tier public and private schools, and close to major universities
+- A peaceful, tree-lined enclave with consistently fresh air, near neighbourhood parks, sports facilities and Lisi Lake for weekend leisure
 
----
+$750/month, long-term.
 
-## ქართული (GEORGIAN) — please review before publishing
-
-**სათაური:** ვრცელი 3-ოთახიანი ბინა პანორამული ხედითა და გამორჩეული სეისმომედეგობით | საბურთალო/ნუცუბიძის პლატო
-
-### მიმოხილვა
-1983 წელს აშენებული 16-სართულიანი ღირსშესანიშნავი კორპუსის მე-12 სართულზე განთავსებული ეს ვრცელი 3-ოთახიანი ბინა აერთიანებს იშვიათ არქიტექტურულ ხასიათსა და თანამედროვე კომფორტს. საბურთალოს მწვანე ფონზე განლაგებული ბინა გთავაზობთ უხვ ბუნებრივ განათებას, შესანიშნავ ჰაერის ცირკულაციასა და ქალაქის ფართო პანორამულ ხედებს.
-
-### არქიტექტურული და კონსტრუქციული უპირატესობები
-საბჭოთა ბრუტალიზმის ერთ-ერთი საუკეთესო ნიმუში — კორპუსი დგას გამაგრებულ პილონებზე და ფართოდაა აღიარებული როგორც თბილისის ერთ-ერთი ყველაზე მყარი და სეისმომედეგი საცხოვრებელი შენობა. ეს ერთდროულად სიმშვიდისა და არქიტექტურული მემკვიდრეობის გარანტიაა.
-
-### ბინის ძირითადი მახასიათებლები და განლაგება
-- **ფართო ოთახები:** 28 კვ.მ მისაღები ოთახი, 9 კვ.მ ჰოლი და ცალკე სამზარეულო.
-- **განათება და ხედები:** მაღალი სართულის ფანჯრებიდან შემოდის უხვი ბუნებრივი შუქი; მე-12 სართულიდან იშლება შთამბეჭდავი ხედები.
-- **ავეჯი და კომფორტი:** სრულად ავეჯით გაწყობილი და შესასახლებლად მზად — კონდიციონერი, საიმედო გათბობის სისტემა და სწრაფი ოპტიკურ-ბოჭკოვანი ინტერნეტი.
-- **ტექნიკა:** სრულად აღჭურვილი სამზარეულო ჭურჭლის სარეცხი მანქანით, გაზის/ელექტრო ქურით, ასევე სარეცხი მანქანა-საშრობი და ორი ტელევიზორი.
-- **ავტოფარეხი (დამატებით):** კორპუსის შესასვლელთან მდებარე უსაფრთხო, მონოლითური ბეტონის 18 კვ.მ ავტოფარეხი ხელმისაწვდომია დამატებით. მისი მყარი კონსტრუქცია განსაკუთრებით გამოსადეგს ხდის მას როგორც კერძო საწყობს ან სამუშაო სივრცეს ბიზნესითა და ელექტრონული კომერციით დაკავებული პირებისთვის.
-
-### მდებარეობა და უბანი (საბურთალო / ნუცუბიძის პლატო)
-- **ტრანსპორტი:** მხოლოდ 8 წუთის სავალი ავტობუსით დელისის მეტროსადგურამდე — მარტივი კავშირი მთელ თბილისთან.
-- **განათლება:** გარშემო მრავალი წამყვანი საჯარო და კერძო სკოლა, ასევე ახლოსაა მსხვილი უნივერსიტეტები.
-- **პარკები და დასვენება:** მშვიდი, ხემცენარეებით გარშემორტყმული უბანი სუფთა ჰაერით, უბნის პარკების, სპორტული ობიექტებისა და ლისის ტბის სიახლოვეს.
+Reach out to Nino on WhatsApp / Viber / Telegram: +995555789306
 
 ---
 
-## РУССКИЙ (RUSSIAN) — please review before publishing
+## ქართული (GEORGIAN) — please read before publishing
 
-**Заголовок:** Просторная 3-комнатная квартира с панорамным видом и исключительной сейсмостойкостью | Сабуртало/Плато Нуцубидзе
+**სათაური:** ვრცელი 3-ოთახიანი ბინა პანორამული ხედითა და გამორჩეული სეისმომედეგობით | საბურთალო / ნუცუბიძის პლატო
 
-### Обзор
-Расположенная на 12-м этаже приметного 16-этажного дома 1983 года постройки, эта просторная 3-комнатная квартира сочетает редкий архитектурный характер с современным комфортом. На зелёном фоне Сабуртало квартира дарит прекрасное естественное освещение, отличную циркуляцию воздуха и широкие панорамные виды на город.
+ნუცუბიძის პლატოზე დილები უფრო მშვიდია, ვიდრე დანარჩენ საბურთალოზე — ხემცენარეებით შემოსაზღვრული ქუჩები, ქედიდან ჩამომავალი სუფთა ჰაერი და ქვემოთ გადაშლილი ქალაქი. ეს ვრცელი 3-ოთახიანი ბინა მდებარეობს 1983 წელს აშენებული 16-სართულიანი ღირსშესანიშნავი კორპუსის მე-12 სართულზე და აერთიანებს იშვიათ არქიტექტურულ ხასიათსა და თანამედროვე კომფორტს. უხვი ბუნებრივი განათება, შესანიშნავი ჰაერის ცირკულაცია და თბილისის ფართო პანორამული ხედები.
 
-### Архитектура и конструкция
-Яркий образец советского брутализма: здание стоит на усиленных пилонах и считается одним из самых прочных и сейсмостойких жилых домов Тбилиси. Это одновременно спокойствие за надёжность и самобытное архитектурное наследие.
+**არქიტექტურა და კონსტრუქცია.** საბჭოთა ბრუტალიზმის ერთ-ერთი საუკეთესო ნიმუში — კორპუსი დგას გამაგრებულ პილონებზე და ფართოდაა აღიარებული როგორც თბილისის ერთ-ერთი ყველაზე მყარი და სეისმომედეგი საცხოვრებელი შენობა. ეს არის სწორედ ის პლატო, რომელმაც თბილისს ცნობილი „ცის ხიდის" კორპუსები მოუტანა.
 
-### Основные характеристики и планировка
-- **Просторные помещения:** гостиная 28 кв. м, холл 9 кв. м и отдельная кухня.
-- **Свет и виды:** окна верхнего этажа наполняют квартиру солнечным светом; с 12-го этажа открываются захватывающие виды.
-- **Мебель и комфорт:** полностью меблирована и готова к заселению — кондиционер, надёжная система отопления и быстрый оптоволоконный интернет.
-- **Техника:** полностью укомплектованная кухня с посудомоечной машиной и газовой/электрической плитой, а также стиральная машина с сушкой и два телевизора.
-- **Гараж (за отдельную плату):** надёжный монолитный бетонный гараж 18 кв. м у самого подъезда доступен как дополнительная опция. Прочная конструкция делает его особенно удобным для личного хранения или как рабочую площадку для тех, кто занимается бизнесом и электронной коммерцией.
+**განლაგება და მახასიათებლები**
+- ფართო ოთახები: 28 კვ.მ მისაღები, 9 კვ.მ ჰოლი და ცალკე სამზარეულო
+- 2 საძინებელი, 1 სველი წერტილი, სულ 85 კვ.მ, აივანი
+- მაღალი სართულის ფანჯრებიდან უხვი ბუნებრივი შუქი და მე-12 სართულის შთამბეჭდავი ხედები
+- სრულად ავეჯით გაწყობილი და შესასახლებლად მზად: კონდიციონერი, ცენტრალური გაზის გათბობა და სწრაფი ოპტიკურ-ბოჭკოვანი ინტერნეტი
+- სრულად აღჭურვილი სამზარეულო ჭურჭლის სარეცხი მანქანითა და გაზის/ელექტრო ქურით, ასევე სარეცხი მანქანა-საშრობი და ორი ტელევიზორი
+- **ფასში შედის: უსაფრთხო, მონოლითური ბეტონის 18 კვ.მ ავტოფარეხი კორპუსის შესასვლელთან.** მისი მყარი კონსტრუქცია განსაკუთრებით გამოსადეგს ხდის მას როგორც კერძო საწყობს ან სამუშაო სივრცეს ბიზნესითა და ელექტრონული კომერციით დაკავებული პირებისთვის.
 
-### Расположение и район (Сабуртало / Плато Нуцубидзе)
-- **Транспорт:** всего 8 минут на автобусе до станции метро «Делиси» — удобная связь со всем Тбилиси.
-- **Образование:** вокруг множество сильных государственных и частных школ, рядом крупные университеты.
-- **Парки и отдых:** тихий зелёный уголок с неизменно свежим воздухом, рядом районные парки, спортивные объекты и озеро Лиси.
+**მდებარეობა — საბურთალო / ნუცუბიძის პლატო**
+- მხოლოდ 8 წუთი ავტობუსით დელისის მეტროსადგურამდე, მარტივი კავშირი მთელ თბილისთან
+- გარშემო მრავალი წამყვანი საჯარო და კერძო სკოლა, ახლოსაა მსხვილი უნივერსიტეტები
+- მშვიდი, ხემცენარეებით გარშემორტყმული უბანი სუფთა ჰაერით, უბნის პარკების, სპორტული ობიექტებისა და ლისის ტბის სიახლოვეს
+
+$750 თვეში, გრძელვადიანად.
+
+დაუკავშირდით ნინოს WhatsApp / Viber / Telegram-ზე: +995555789306
 
 ---
 
-## Where to apply this — checklist
+## РУССКИЙ (RUSSIAN) — please read before publishing
 
-| # | Destination | ID / link | Price → $750 | Description | Notes |
-|---|---|---|---|---|---|
-| 1 | tbilisihome.ge | post 23744 | ☐ | ☐ | Houzez dashboard; house style is short emoji copy — consider a trimmed version |
-| 2 | myhome.ge | 25934691 | ☐ | ☐ | Verify $ currency toggle stays on USD after edit |
-| 3 | ss.ge | 36614183 | ☐ | ☐ | **No phone numbers in description** (their rule) |
-| 4 | korter.ge | 798410 | ☐ | ☐ | Free tier; GE/RU/EN fields all present |
-| 5 | FB Page post | [post](https://www.facebook.com/tbilisihome.ge/posts/1035463299489462) | ☐ | ☐ | Edit existing post or repost; keep identity on the Page |
-| 6 | FB "Apartments in Tbilisi" group | [post](https://www.facebook.com/groups/5978918752209530/posts/27418169301191165/) | ☐ | ☐ | Not the Foreigners group (5 Aug rule) |
+**Заголовок:** Просторная 3-комнатная квартира с панорамным видом и исключительной сейсмостойкостью | Сабуртало / Плато Нуцубидзе
 
-Also update on the portals where the field exists: **year built 1983**, **total floors 16**.
+Утро на плато Нуцубидзе тише, чем в остальном Сабуртало: зелёные улицы, свежий воздух с хребта и город, раскинувшийся внизу. Эта просторная 3-комнатная квартира расположена на 12-м этаже приметного 16-этажного дома 1983 года постройки и сочетает редкий архитектурный характер с современным комфортом. Прекрасное естественное освещение, отличная циркуляция воздуха и широкие панорамные виды на Тбилиси.
 
-## Open questions for Vasiliy
-1. Garage add-on — what monthly price?
-2. Heating — the old note said central gas; new copy says only "reliable heating system". Which is it?
-3. Purchase price + closing costs (still blocking the owner portal's return figures).
+**Архитектура и конструкция.** Яркий образец советского брутализма: здание стоит на усиленных пилонах и считается одним из самых прочных и сейсмостойких жилых домов Тбилиси. Это то самое плато, которому Тбилиси обязан знаменитыми башнями с «небесными мостами».
+
+**Планировка и характеристики**
+- Просторные помещения: гостиная 28 кв. м, холл 9 кв. м и отдельная кухня
+- 2 спальни, 1 санузел, всего 85 кв. м, балкон
+- Окна верхнего этажа наполняют квартиру солнцем; с 12-го этажа открываются захватывающие виды
+- Полностью меблирована и готова к заселению: кондиционер, центральное газовое отопление и быстрый оптоволоконный интернет
+- Полностью укомплектованная кухня с посудомоечной машиной и газовой/электрической плитой, а также стиральная машина с сушкой и два телевизора
+- **Входит в стоимость: надёжный монолитный бетонный гараж 18 кв. м у самого подъезда.** Прочная конструкция делает его особенно удобным для личного хранения или как рабочую площадку для тех, кто занимается бизнесом и электронной коммерцией.
+
+**Расположение — Сабуртало / Плато Нуцубидзе**
+- Всего 8 минут на автобусе до станции метро «Делиси», удобная связь со всем Тбилиси
+- Вокруг множество сильных государственных и частных школ, рядом крупные университеты
+- Тихий зелёный уголок с неизменно свежим воздухом, рядом районные парки, спортивные объекты и озеро Лиси
+
+$750 в месяц, долгосрочно.
+
+Свяжитесь с Нино в WhatsApp / Viber / Telegram: +995555789306
+
+---
+
+## ⛔ ss.ge VERSION — STRIP THE CONTACT LINE
+
+ss.ge scans the description and blocks phone numbers with a live warning. Paste the three
+texts above **without** the final "Reach out to Nino / დაუკავშირდით / Свяжитесь" line.
+Everything else is identical. ss.ge has its own contact section.
+
+---
+
+# B. SHORT EMOJI-BULLET — for tbilisihome.ge & Facebook
+
+```
+🏡 FOR RENT: 3-room apartment in Nutsubidze Plateau (Saburtalo), Tbilisi
+
+📍 Besarion Jgenti 85 — 8 min by bus to Delisi metro
+💰 $750/month — long-term
+
+✨ Fully furnished, renovated, move-in ready
+
+🔸 2 Bedrooms, 1 Bathroom
+🔸 85 m² — 12th floor of 16
+🔸 28 m² living room + separate kitchen
+🔸 Private 18 m² concrete garage INCLUDED
+🔸 AC, central gas heating, fibre-optic internet
+
+Panoramic city views from the 12th floor of a 1983 landmark — one of the
+plateau's brutalist towers on reinforced pylons, and one of the soundest
+buildings in the city. Quiet, green, fresh air, close to Lisi Lake, parks
+and a strong choice of schools.
+
+Reach out to Nino on WhatsApp / Viber / Telegram: +995555789306
+```
+
+---
+
+# C. EDIT CHECKLIST — six destinations
+
+| # | Destination | ID / link | Price → $750 | Description | Year 1983 | Floors 16 | Garage |
+|---|---|---|---|---|---|---|---|
+| 1 | tbilisihome.ge | post 23744 | ☐ | ☐ short | ☐ | ☐ | ☐ |
+| 2 | myhome.ge | 25934691 | ☐ | ☐ long | ☐ | ☐ | ☐ |
+| 3 | ss.ge | 36614183 | ☐ | ☐ long, **no phone** | ☐ | ☐ | ☐ |
+| 4 | korter.ge | 798410 | ☐ | ☐ long | ☐ | ☐ | ☐ |
+| 5 | FB Page | [post](https://www.facebook.com/tbilisihome.ge/posts/1035463299489462) | ☐ | ☐ short | — | — | ☐ |
+| 6 | FB "Apartments in Tbilisi" | [post](https://www.facebook.com/groups/5978918752209530/posts/27418169301191165/) | ☐ | ☐ short | — | — | ☐ |
+
+**Currency trap — check on every site.** All three Georgian portals default to ₾. $750
+saved as ₾750 reads as about a third of the asking price. Toggle to USD *before* typing,
+then read the page back to prove it stuck:
+- myhome.ge — active currency carries `text-white`; sidebar preview should read `$ 750`
+- ss.ge — summary line should read `სრული ფასი: 750 $`
+- korter.ge — a GEL equivalent appears beside the field (≈ 2 000 ₾ range) proving it read dollars
+
+**Leave every paid boost off** — myhome VIP tiers, ss.ge VIP/urgent/colour, korter promo
+slider, Facebook Boost.
+
+**Not posted to the "Tbilisi - Apartments For Foreigners" group** (your 5 Aug rule) — the
+3 Sep run skipped it, so there's nothing there to edit.
+
+## Still open
+Purchase price + closing costs for Vasiliy's property — still blocking the return figures
+on his owner portal (§2/§10). Separate from this repricing.
